@@ -38,6 +38,8 @@
   header h1 {
     font-size: 24px;
   }
+  #about{
+      text-align="center";
   
   header nav a {
     color: #fff;
